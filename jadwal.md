@@ -1,4 +1,4 @@
-# Jadwal Praktikum SIPINLAB
+﻿# Jadwal Praktikum SIPINLAB
 
 1. Modul 1 – Lingkungan Kerja, Git, dan GitHub
 2. Modul 2 – Backend Laravel API dan Basis Data MySQL
